@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/id_free_audition"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+    android:drawablePadding="5dp"
+    android:drawableTop="@android:drawable/ic_menu_share"
+    android:gravity="center"
+    android:paddingTop="10dp"
+    android:text="免费试听"
+    android:textColor="#666666"
+    android:textSize="11dp" />
